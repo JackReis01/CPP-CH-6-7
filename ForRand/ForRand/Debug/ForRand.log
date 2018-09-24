@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jack\source\repos\forrand\forrand\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ForRand.vcxproj -> C:\Users\Jack\source\repos\ForRand\Debug\ForRand.exe
